@@ -25,6 +25,6 @@ for article in articles:
 
     print(article_link)
 
-    print(article_name
+    print(article_name)
 
     print()
